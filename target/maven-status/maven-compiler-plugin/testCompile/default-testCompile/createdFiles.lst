@@ -1,0 +1,5 @@
+com\thecompany\moneytransfer\converters\CurrencyAmountConverterTest.class
+com\thecompany\moneytransfer\converters\CurrencyRatesConverterTest.class
+com\thecompany\moneytransfer\operations\MoneyTransferOperationTest.class
+com\thecompany\moneytransfer\DatastoreTest.class
+com\thecompany\moneytransfer\AppIT.class

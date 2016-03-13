@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<initialData>
+<users>
+    <user>
+        <id>1</id>
+        <name>John Smith</name>
+        <accounts>
+            <account>
+                <id>11</id>
+                <currency>GBP</currency>
+                <amount>100.25</amount>
+            </account>
+            <account>
+                <id>12</id>
+                <currency>USD</currency>
+                <amount>200.45</amount>
+            </account>
+            <account>
+                <id>13</id>
+                <currency>JPY</currency>
+                <amount>1000.15</amount>
+            </account>
+        </accounts>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Adam Smith</name>
+        <accounts>
+            <account>
+                <id>21</id>
+                <currency>GBP</currency>
+                <amount>200.25</amount>
+            </account>
+            <account>
+                <id>11</id>
+                <currency>USD</currency>
+                <amount>200.45</amount>
+            </account>
+            <account>
+                <id>23</id>
+                <currency>JPY</currency>
+                <amount>2000.15</amount>
+            </account>
+        </accounts>
+</user>
+</users>
+</initialData>
